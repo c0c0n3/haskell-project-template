@@ -1,0 +1,4 @@
+-- TODO Needed? How to keep in sync w/ haskell.nix?
+-- index-state: 2020-12-11T00:00:00Z
+
+packages: */*.cabal
